@@ -4,8 +4,8 @@
 * The analysis revealed that the snack market is heavily saturated with high-sugar, low-protein products, while the high-protein, low-sugar segment remains underserved. The biggest opportunity lies in savory and dairy-based snacks delivering 10–20g of protein with less than 5g of sugar per serving. This represents a clear “Blue Ocean” innovation space for a differentiated healthy snacking product line.
 
 ### B. Project Links
-* **Link to Notebook:** (e.g., Google Colab, etc.). *Ensure sharing permissions are set to "Anyone with the link can view".*
-* **Link to Dashboard:** https://snacksdashboard.streamlit.app/
+* **Link to Notebook:** [Link to repo](https://github.com/NanaTwum04/amalitech_project)
+* **Link to Dashboard:** [Interactive dashboard](https://snacksdashboard.streamlit.app/)
 * **Link to Presentation:** [powerpoint](https://1drv.ms/p/c/a4cc64dd6538731e/IQDKHI2oRDbUQ7mBa74ef_-JAWhjHkED2e-MjNmOKBdeGeU?e=D3xssa)
 
 ### C. Technical Explanation
